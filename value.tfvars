@@ -1,0 +1,6 @@
+ct_client_id = "sayYacTNY5cG07-0lOyyQ-Bd"
+ct_client_secret = "6axw_NbgFO1MnbcuSv1lX-gULU0b-NQ2"
+ct_project_key = "custom_object"
+ct_scopes = "manage_api_clients:custom_object manage_extensions:custom_object manage_project_settings:custom_object manage_project:custom_object manage_subscriptions:custom_object"
+ct_api_url = "https://api.us-central1.gcp.commercetools.com"
+ct_auth_url = "https://auth.us-central1.gcp.commercetools.com"
